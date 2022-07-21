@@ -1,4 +1,4 @@
-# TaoEnhancer
+# Tao Enhancer
 Aplikace sloužící k přidání dodatečných funkcionalit (řešení nedostatků) do nástroje TAO Core patřícího do platformy TAO. Aplikace umožňuje import testů a uživatelů z TAO Core a práci s importovanými daty. Aplikace byla vytvořena za využití platformy ASP.NET Core s .NET 6 pomocí programovacího jazyka C#.
 
 ## Autoři
